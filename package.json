@@ -1,6 +1,7 @@
 {
   "name": "jgr",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "xpress-generator": "0.0.7"
   }
 }

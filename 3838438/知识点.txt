@@ -1,0 +1,11 @@
+#{}  
+读取js变量
+
+
+-for(var i in a){
+   p #{a[i]}
+-}
+读取数组
+
+touch .gitignore
+忽略文件夹
