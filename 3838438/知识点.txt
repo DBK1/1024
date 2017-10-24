@@ -9,3 +9,6 @@
 
 touch .gitignore
 忽略文件夹
+
+npm i express --genetator
+安装脚手架
